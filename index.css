@@ -1,0 +1,30 @@
+.main-header {
+  border-bottom: 1px solid;
+  background-color: #ccc;
+}
+
+.nav-area {
+  border-right: 1px solid;
+  background-color: #ccc;
+}
+
+.container-header {
+  background-color: #eee;
+}
+
+.main {
+  padding: 0;
+}
+
+.task-column {
+  border: 1px solid;
+  background-color: #eee;
+}
+
+.task-item {
+  background-color: #bbb;
+}
+
+.tasks-container {
+  min-height: 25em;
+}
